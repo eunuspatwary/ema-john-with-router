@@ -4,7 +4,7 @@ const Inventory
     = () => {
         return (
             <div>
-                <h2>set Inventory</h2>
+                <h2>set Inventory ajdhbfgseu</h2>
             </div>
         );
     };
